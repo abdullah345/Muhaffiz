@@ -1,0 +1,34 @@
+<annotation>
+  <folder>HogDS\RighthandThrow</folder>
+  <filename>13.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>274</width>
+    <height>447</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>RightHandThrow</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>71</xmin>
+      <ymin>17</ymin>
+      <xmax>233</xmax>
+      <ymax>344</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>RightHandThrow</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>82</xmin>
+      <ymin>17</ymin>
+      <xmax>233</xmax>
+      <ymax>344</ymax>
+    </bndbox>
+  </object>
+</annotation>

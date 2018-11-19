@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>D:/pyq/pyqt5_camera_viewer-master/pyqt5_camera_viewer-master/bgpng.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>D:/Muhaffiz2/app/src/main/res/drawable/login.png</file>
+  </qresource>
+</RCC>
